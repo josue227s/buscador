@@ -9,7 +9,7 @@ const rl = readline.createInterface({
 
  
 function iniciarPrograma() {
-    console.log("¡Bienvenido al programa!");
+    console.log("¡Bienvenido al buscador de películas!");
     rl.question("Por favor, introduce un argumento para continuar (--Sort (--Sort + title, rating, tags, director, year o duration), --Search, --Tag o presiona Enter para la opción por defecto):): ", (respuesta) => {
 
         const parametro = respuesta.trim().toLowerCase();
