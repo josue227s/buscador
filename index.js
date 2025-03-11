@@ -41,7 +41,7 @@ switch (parametro) {
             });
         return;
     default:
-        console.log("Parámetro no válido. Usa '--Sort', '--Search'o '--Tag'.");
+        console.log("Parámetro no válido. Por favor, usa '--Sort', '--Search'o '--Tag'.");
 };
 
 
