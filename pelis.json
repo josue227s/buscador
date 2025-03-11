@@ -1,0 +1,83 @@
+[
+    {
+      "title": "Interestelar",
+      "rating": 5,
+      "tags": ["ciencia ficción", "aventura", "espacio", "compleja"],
+      "director": "Christopher Nolan",
+      "year": 2014,
+      "duration": "2h 49m"
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "rating": 4,
+      "tags": ["acción", "post-apocalíptica", "adrenalina"],
+      "director": "George Miller",
+      "year": 2015,
+      "duration": "2h"
+    },
+    {
+      "title": "El viaje de Chihiro",
+      "rating": 5,
+      "tags": ["animación", "fantasía", "japonesa", "Studio Ghibli"],
+      "director": "Hayao Miyazaki",
+      "year": 2001,
+      "duration": "2h 05m"
+    },
+    {
+      "title": "Parasite",
+      "rating": 4,
+      "tags": ["thriller", "drama", "coreana", "oscarizada"],
+      "director": "Bong Joon-ho",
+      "year": 2019,
+      "duration": "2h 12m"
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "rating": 5,
+      "tags": ["animación", "superhéroes", "marvel", "innovadora"],
+      "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+      "year": 2018,
+      "duration": "1h 57m"
+    },
+    {
+      "title": "Dune",
+      "rating": 5,
+      "tags": ["ciencia ficción", "aventura", "épica", "adaptación"],
+      "director": "Denis Villeneuve",
+      "year": 2021,
+      "duration": "2h 35m"
+    },
+    {
+      "title": "Soul",
+      "rating": 4,
+      "tags": ["animación", "familiar", "jazz", "reflexiva"],
+      "director": "Pete Docter",
+      "year": 2020,
+      "duration": "1h 40m"
+    },
+    {
+      "title": "The Father",
+      "rating": 5,
+      "tags": ["drama", "psicológico", "familiar", "conmovedora"],
+      "director": "Florian Zeller",
+      "year": 2020,
+      "duration": "1h 37m"
+    },
+    {
+      "title": "Tenet",
+      "rating": 3,
+      "tags": ["acción", "ciencia ficción", "compleja", "Christopher Nolan"],
+      "director": "Christopher Nolan",
+      "year": 2020,
+      "duration": "2h 30m"
+    },
+    {
+      "title": "Wolfwalkers",
+      "rating": 4,
+      "tags": ["animación", "fantasía", "irlandesa", "aventura"],
+      "director": "Tomm Moore, Ross Stewart",
+      "year": 2020,
+      "duration": "1h 43m"
+    }
+  ]
+    
